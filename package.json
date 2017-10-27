@@ -9,7 +9,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "webpack-hot-middleware": "^2.18.2"
+  "dependencies": {
+    "express": "^4.16.2"
   }
 }
